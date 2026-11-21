@@ -55,4 +55,4 @@ GitHub Actions执行生成差异检查、格式检查、测试与构建，再部
 
 课程指定范围与教材印刷页码见[材料维护说明](docs/workspace.md)。公开题面为按PDF核对的完整原题，原题图直接复用PDF裁切图；教材扫描、原题切片与原始HTML/Markdown材料保留在本机忽略目录 `.local/materials/`，作为私有校对证据。印刷页码与PDF页序分别记录。
 
-应用底座改编自[ElectromagnetismDrill](https://github.com/yuxuan6426/ElectromagnetismDrill/tree/e33c9213ac42ec4f0c0ab5dc5e7ee635dda6eca3)，固定提交 `e33c9213ac42ec4f0c0ab5dc5e7ee635dda6eca3`，保留其MIT署名与锁文件。代码采用[MIT许可](LICENSE)。教材及原题权利归原权利人；封面为ChatGPT生成的概念插画，原题图保留教材原图；解答能级图与架构图为可编辑SVG。详见[展示素材说明](docs/media.md)。
+应用底座改编自[ElectromagnetismDrill](https://github.com/yuxuan6426/ElectromagnetismDrill/tree/862e6e4ab88ccbf52fdd980af998bbe1b1e150cb)，固定提交 `862e6e4ab88ccbf52fdd980af998bbe1b1e150cb`，保留其MIT署名与锁文件。代码采用[MIT许可](LICENSE)。教材及原题权利归原权利人；封面为ChatGPT生成的概念插画，原题图保留教材原图；解答能级图与架构图为可编辑SVG。详见[展示素材说明](docs/media.md)。
